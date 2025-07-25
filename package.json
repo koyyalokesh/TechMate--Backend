@@ -1,0 +1,19 @@
+{
+  "name": "techmate_backend",
+  "version": "1.0.0",
+  "description": "platform for developers to connect",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/app.js",
+    "dev":"nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
